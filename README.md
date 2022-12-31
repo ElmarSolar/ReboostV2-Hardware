@@ -9,7 +9,17 @@ Markup : * Make this hardware more accecible and easier to produce.
          * Make a Value Stream Map so it becomes insightful where value is added and how the project is managed. 
          * Add alternative suppliers for parts to it's BOM to get redudundant suppliers for all parts and negotiate better production. 
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 # ReboostV2-Hardware
 Hardware files for [OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter)
