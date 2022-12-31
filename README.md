@@ -7,7 +7,10 @@ The goals of this fork are:
 * Make this hardware more accecible and easier to produce.
 * Produce 1 MPPT, for a price lower than the current price offered by Tjitte, and characterize it's efficiency using a WT5000.  
 * Make a Value Stream Map so it becomes insightful where value is added and how the project is managed. 
-* Add alternative suppliers for parts to it's BOM to get redudundant suppliers for all parts and negotiate better production. 
+* Add alternative suppliers for parts to it's BOM to get redudundant suppliers for all parts and negotiate better production price.
+* Modify the design to improve efficiency  
+
+Right now it's undecided if the efficiency measurements or modifications that lead to efficency improvements get published. 
 
 # ReboostV2-Hardware
 Hardware files for [OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter)
