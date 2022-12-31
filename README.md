@@ -4,10 +4,10 @@ Elmar Solar Forked this project.
 
 The goals of this fork are:
 
-Markup : * Make this hardware more accecible and easier to produce.
-         * Produce 1 MPPT, for a price lower than the current price offered by Tjitte, and characterize it's efficiency using a WT5000.  
-         * Make a Value Stream Map so it becomes insightful where value is added and how the project is managed. 
-         * Add alternative suppliers for parts to it's BOM to get redudundant suppliers for all parts and negotiate better production. 
+* Make this hardware more accecible and easier to produce.
+* Produce 1 MPPT, for a price lower than the current price offered by Tjitte, and characterize it's efficiency using a WT5000.  
+* Make a Value Stream Map so it becomes insightful where value is added and how the project is managed. 
+* Add alternative suppliers for parts to it's BOM to get redudundant suppliers for all parts and negotiate better production. 
 
 
 
@@ -15,18 +15,8 @@ Markup : * Make this hardware more accecible and easier to produce.
     * Nested bullet
         * Sub-nested bullet etc
 * Bullet list item 2
+* kjh
 * 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
 
 # ReboostV2-Hardware
 Hardware files for [OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter)
