@@ -1,4 +1,4 @@
-# Elmar Solar Fork
+# Elmar Solar Fork of TjitteS/ReboostV2-Hardware
 
 Elmar Solar Forked this project. 
 
