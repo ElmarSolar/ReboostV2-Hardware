@@ -1,5 +1,0 @@
-Change Component Parameter Library Name in C2 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
-Change Component Parameter Library Name in C3 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
-Change Component Parameter Library Name in R8 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
-Change Component Parameter Library Name in R10 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
-Change Component Parameter Library Name in U1 Old=AR_ICs.IntLib New=Reboostv2.SCHLIB
