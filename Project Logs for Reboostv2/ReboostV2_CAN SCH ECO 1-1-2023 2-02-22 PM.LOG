@@ -1,0 +1,23 @@
+Change Component Parameter Library Name in C31 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C39 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C43 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C46 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C47 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C58 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C62 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in D4 Old=AR_Optocouplers.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in D8 Old=AR_Diodes.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in J8 Old=Top Dutch Solar Racing New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in J9 Old=Top Dutch Solar Racing New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in L3 Old=AR_Inductors.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in L6 Old=WE-CNSW (rev20a).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in MP3 Old=Altium_SMSI (rev20c).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in MP4 Old=Altium_SMSI (rev20c).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in MP5 Old=Altium_SMSI (rev20c).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in MP6 Old=Altium_SMSI (rev20c).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R28 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R29 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R30 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R31 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U6 Old=AR_ICs.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U7 Old=AR_Vreg.IntLib New=Reboostv2.SCHLIB

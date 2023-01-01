@@ -1,0 +1,22 @@
+Change Component Parameter Library Name in C9 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C10 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C11 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C12 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C13 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C14 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C15 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C16 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C17 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C18 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in C19 Old=AR_Capacitors_Ceramic.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in J4 Old=AR_Connectors.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R14 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R15 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R16 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R17 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in S2 Old=Altium_WS-ROTV (rev19a).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U3 Old=AR_Microcontrollers.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U4 Old=AR_ICs.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U4 Old=AR_ICs.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in U4 Old=AR_ICs.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in X1 Old=AR_Crystals.IntLib New=Reboostv2.SCHLIB

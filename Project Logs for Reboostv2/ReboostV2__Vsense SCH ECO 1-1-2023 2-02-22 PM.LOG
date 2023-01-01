@@ -1,0 +1,4 @@
+Change Component Parameter Library Name in L7 Old=WE-CNSW (rev20a).IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R12 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R13 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
+Change Component Parameter Library Name in R49 Old=AR_Resistors_SMD.IntLib New=Reboostv2.SCHLIB
